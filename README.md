@@ -89,20 +89,20 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![output](./o1.png)
+![output](./img/o1.png)
 
 ### Global Thresholding
-![output](./o2.png)
-![output](./o3.png)
-![output](./o4.png)
-![output](./o5.png)
-![output](./o6.png)
+![output](./img/o2.png)
+![output](./img/o3.png)
+![output](./img/o4.png)
+![output](./img/o5.png)
+![output](./img/o6.png)
 ### Adaptive Thresholding
-![output](./o7.png)
-![output](./o8.png)
+![output](./img/o7.png)
+![output](./img/o8.png)
 
 ### Optimum Global Thesholding using Otsu's Method
-![output](./o9.png)
+![output](./img/o9.png)
 
 
 
